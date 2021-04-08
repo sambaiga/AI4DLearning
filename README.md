@@ -20,3 +20,11 @@
 * Data Scraping [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/data_scraping.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/data_scraping.ipynb)
 
+## Machine learning with scklearn
+
+## Deep learning with pytorch
+
+
+## Hyper-parameter search with Optuna
+
+## AI for Energy
