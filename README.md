@@ -14,9 +14,9 @@
 * Combining datasets, Group by and Pivoting operations [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2B.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2B.ipynb)
 * Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2C.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2C.ipynb)
 * Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 * Data Scraping [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/data_scraping.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/data_scraping.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/data_scraping.ipynb)
 
