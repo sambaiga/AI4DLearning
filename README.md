@@ -19,8 +19,8 @@
 
 
 ## Machine learning with scklearn
-* ML pipeline with scklearn [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/ML/optuna-hyperparmeter.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/HyperParameter/optuna-hyperparmeter.ipynb)
+* ML pipeline with scklearn [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/ML/Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/ML/Pipeline.ipynb)
 ## Deep learning with pytorch
 
 
