@@ -17,8 +17,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2C.ipynb)
 * Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
-* Data Scraping [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/data_scraping.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/data_scraping.ipynb)
+
 
 ## Machine learning with scklearn
 
@@ -26,5 +25,7 @@
 
 
 ## Hyper-parameter search with Optuna
+* Super-charge Deep learning hyper-parameter search with Optuna [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/data_scraping.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/data_scraping.ipynb)
 
 ## AI for Energy
