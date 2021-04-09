@@ -11,21 +11,21 @@
 ## Data analysis with Pandas
 * Introduction to Pandas for Data processing and Analysis [Notebook](https://github.com/sambaiga/AI4DLearning/blob/master/DataAnalysis/Module_2A.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2A.ipynb)
-* Combining datasets, Group by and Pivoting operations [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2B.ipynb)
+* Combining datasets, Group by and Pivoting operations [Notebook](https://github.com/sambaiga/AI4DLearning/blob/master/DataAnalysis/module%202/Module_2B.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2B.ipynb)
 * Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2C.ipynb)
-* Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
+
 
 
 ## Machine learning with scklearn
-
+* ML pipeline with scklearn [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/ML/optuna-hyperparmeter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/HyperParameter/optuna-hyperparmeter.ipynb)
 ## Deep learning with pytorch
 
 
 ## Hyper-parameter search with Optuna
-* Super-charge Deep learning hyper-parameter search with Optuna [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/data_scraping.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/data_scraping.ipynb)
+* Super-charge Deep learning hyper-parameter search with Optuna [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/HyperParameter/optuna-hyperparmeter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/HyperParameter/optuna-hyperparmeter.ipynb)
 
 ## AI for Energy
