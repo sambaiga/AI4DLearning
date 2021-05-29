@@ -62,8 +62,19 @@
 ### Practical ML and MLOPS
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [Berkeley Spring 2021 - Full Stack Deep Learning](https://docs.google.com/document/d/e/2PACX-1vSSSHcahlrJRvVq4qRKDX2jYLjhgpbWZjqmDcWZ7w3FWItZrlSKw6GY7rcSj5ZkJr6M0DaR8QbKCd8S/pub)
+- [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/)
+- [MLOps](https://madewithml.com/courses/mlops/?s=09)
+- [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
+
 
 ### Advanced ML courses
 - [CS 159: Data-Driven Algorithm Design Spring 2020](https://sites.google.com/view/cs-159-spring-2020/?s=09)
 - [Integrating optimization, constraints, and control within deep learning models](https://www.youtube.com/watch?v=vWg7GIC6u_Y)
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
+
+
+### Books
+- [Computer Vision: Algorithms and Applications, 2nd ed](http://szeliski.org/Book/)
+- [Probabilistic Machine Learning" - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
+- [Model-based machine learning](https://www.mbmlbook.com/toc.html)
+- [PATTERNS, PREDICTIONS, AND ACTIONS](https://mlstory.org/?s=09)
