@@ -1,4 +1,4 @@
-# Course outline
+# Content
 
 ## Fundamentals
 * Intro to Python [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%201/intro%20to%20python.ipynb)
