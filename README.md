@@ -78,3 +78,4 @@
 - [Probabilistic Machine Learning" - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Model-based machine learning](https://www.mbmlbook.com/toc.html)
 - [PATTERNS, PREDICTIONS, AND ACTIONS](https://mlstory.org/?s=09)
+- [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
