@@ -65,6 +65,7 @@
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/)
 - [MLOps](https://madewithml.com/courses/mlops/?s=09)
 - [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics?s=09)
 
 
 ### Advanced ML courses
