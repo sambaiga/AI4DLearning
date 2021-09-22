@@ -36,6 +36,7 @@
 
 
 ### Machine learning and Deep learning
+- [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/)
 - [DS-GA 1008 Deep learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Deep Learning: Do-It-Yourself](https://dataflowr.github.io/website/)
 - [DEEP LEARNING COURSE OF LAKE GENEVA](https://fleuret.org/dlc/) [François Fleuret. T](http://www.idiap.ch/~fleuret/)
