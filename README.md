@@ -36,6 +36,7 @@
 
 
 ### Machine learning and Deep learning
+- [Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022)
 - [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/)
 - [DS-GA 1008 Deep learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Deep Learning: Do-It-Yourself](https://dataflowr.github.io/website/)
@@ -67,15 +68,20 @@
 - [MLOps](https://madewithml.com/courses/mlops/?s=09)
 - [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics?s=09)
+- [A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
 
 
 ### Advanced ML courses
 - [CS 159: Data-Driven Algorithm Design Spring 2020](https://sites.google.com/view/cs-159-spring-2020/?s=09)
 - [Integrating optimization, constraints, and control within deep learning models](https://www.youtube.com/watch?v=vWg7GIC6u_Y)
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
+- [An Introduction to Deep Generative Modeling: Examples](https://github.com/jmtomczak/intro_dgm)
+
 
 
 ### Books
+- [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Intro to Probability for Data Scienc](https://probability4datascience.com/index.html)
 - [Computer Vision: Algorithms and Applications, 2nd ed](http://szeliski.org/Book/)
 - [Probabilistic Machine Learning" - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Model-based machine learning](https://www.mbmlbook.com/toc.html)
