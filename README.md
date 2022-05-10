@@ -50,8 +50,19 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)[Fei-Fei-Li](http://www.cs.toronto.edu/~rgrosse/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/) and [Serena Yeung](http://ai.stanford.edu/~syyeung/)Stanford University, Spring 2017.
 - [Practical Deep Learning for Coders](http://course.fast.ai/), [Jeremy Howard](),[Fast.ai](http://www.fast.ai/)
 - [Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html) [Jeremy Howard](), [Fast.ai](http://www.fast.ai/)
+
+
+### Computer vision
+- [Computer Vision](http://16385.courses.cs.cmu.edu/spring2022/) 
+- [CS231A: Computer Vision, From 3D Reconstruction to Recognition
+Winter 2022](https://web.stanford.edu/class/cs231a/)
+- [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
+- [An Introduction to Deep Generative Modeling: Examples](https://github.com/jmtomczak/intro_dgm)
 - [Computer vision NYU](https://cs.nyu.edu/~fergus/teaching/vision/index.html)
-- [EECS 498-007 / 598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+- [EECS 498.008 / 598.008
+Deep Learning for Computer Vision
+Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)
+
 
 ### Refoircement Learning
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
