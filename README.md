@@ -88,7 +88,8 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
 - [An Introduction to Deep Generative Modeling: Examples](https://github.com/jmtomczak/intro_dgm)
 
-
+### Optimisation and control
+- [Process Dynamics and Control](https://apmonitor.com/pdc/index.php)
 
 ### Books
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
