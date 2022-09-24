@@ -102,6 +102,6 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
 
 ### Dataset 
--[Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
--[Western Power Distribution's Connected Data Portal](https://connecteddata.westernpower.co.uk/dataset/)
+- [Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
+- [Western Power Distribution's Connected Data Portal](https://connecteddata.westernpower.co.uk/dataset/)
 
