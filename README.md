@@ -90,6 +90,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 
 ### Optimisation and control
 - [Process Dynamics and Control](https://apmonitor.com/pdc/index.php)
+- [Optimization Techniques (Doctorate Program in Power Systems or in Engineering Systems Modeling, year 2021-22)](https://pascua.iit.comillas.edu/aramos/OT.htm)
 
 ### Books
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
@@ -98,4 +99,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Probabilistic Machine Learning" - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Model-based machine learning](https://www.mbmlbook.com/toc.html)
 - [PATTERNS, PREDICTIONS, AND ACTIONS](https://mlstory.org/?s=09)
+
+### Dataset 
+-[Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
 - [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
