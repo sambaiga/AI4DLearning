@@ -99,7 +99,8 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Probabilistic Machine Learning" - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Model-based machine learning](https://www.mbmlbook.com/toc.html)
 - [PATTERNS, PREDICTIONS, AND ACTIONS](https://mlstory.org/?s=09)
+- [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
 
 ### Dataset 
 -[Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
-- [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
+
