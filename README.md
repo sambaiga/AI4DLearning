@@ -100,6 +100,8 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Model-based machine learning](https://www.mbmlbook.com/toc.html)
 - [PATTERNS, PREDICTIONS, AND ACTIONS](https://mlstory.org/?s=09)
 - [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
+- [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
 ### Dataset 
 - [Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
