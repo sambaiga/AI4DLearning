@@ -29,6 +29,8 @@
 ## Other Resources
 ### Courses
 
+-[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+
 ### Probabilistic Machine Learning
 - [10-708 (CMU) Probabilistic Graphical Models, Kayhan Batmanghelich](https://kayhan.dbmi.pitt.edu/node/38)
 - [CSC2541: Scalable and Flexible Models of Uncertainty](https://csc2541-f17.github.io/)[Roger Grosse](http://www.cs.toronto.edu/~rgrosse/), University of Toronto, Fall 2017.
@@ -91,6 +93,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 ### Optimisation and control
 - [Process Dynamics and Control](https://apmonitor.com/pdc/index.php)
 - [Optimization Techniques (Doctorate Program in Power Systems or in Engineering Systems Modeling, year 2021-22)](https://pascua.iit.comillas.edu/aramos/OT.htm)
+- [Data-Driven Mathematical Optimization in Python](https://mobook.github.io/MO-book/intro.html)
 
 ### Books
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
