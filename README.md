@@ -96,6 +96,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Optimization Techniques (Doctorate Program in Power Systems or in Engineering Systems Modeling, year 2021-22)](https://pascua.iit.comillas.edu/aramos/OT.htm)
 - [Data-Driven Mathematical Optimization in Python](https://mobook.github.io/MO-book/intro.html)
 - [Model Predictive Control for Energy System](https://youtu.be/hCwOUGggyvw)
+- [Model Predictive Control and Machine Learning](https://youtu.be/CNwV5GbTEGM)
 
 ### Books
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
