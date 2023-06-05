@@ -30,7 +30,8 @@
 
 ### Python Courses
 
--[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+- [Setting Python Development Environment with VScode and Docker](https://github.com/RamiKrispin/vscode-python)
 
 ### Probabilistic Machine Learning
 - [10-708 (CMU) Probabilistic Graphical Models, Kayhan Batmanghelich](https://kayhan.dbmi.pitt.edu/node/38)
@@ -71,6 +72,8 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 - [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/), Sergey Levine.
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) 26-27 August 2017 - Berkeley CA
+- [Reinforcement Learning and Stochastic Optimization](https://castle.princeton.edu/RLSO/)
+- [Sequential Decision Analytics and Modeling](https://castle.princeton.edu/sdamodeling/)
 
 ### AI for Earth Observation and Remote sensing
   - [ML, Information theory, Signal and Image processing for EO](https://isp.uv.es/courses.html).
@@ -97,6 +100,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Data-Driven Mathematical Optimization in Python](https://mobook.github.io/MO-book/intro.html)
 - [Model Predictive Control for Energy System](https://youtu.be/hCwOUGggyvw)
 - [Model Predictive Control and Machine Learning](https://youtu.be/CNwV5GbTEGM)
+- [Nonlinear and Stochastic Optimization](https://ndcbe.github.io/optimization/intro.html)
 
 ### Books
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
@@ -114,6 +118,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
 - [Western Power Distribution's Connected Data Portal](https://connecteddata.westernpower.co.uk/dataset/)
 -  [Solar home electricity data](https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Solar-home-electricity-data)
+-  [SMART-DS: Synthetic Models for Advanced, Realistic Testing: Distribution Systems and Scenarios](https://www.nrel.gov/grid/smart-ds.html)
 
 ## Others
 - [Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector](https://colab.research.google.com/github/bitstoenergy/iclr-tutorial/blob/main/SmartMeterDataAnalytics_Tutorial.ipynb)
