@@ -114,12 +114,15 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 - [Time Series Analysis With R](https://nicolarighetti.github.io/Time-Series-Analysis-With-R/)
 
-### Dataset 
+### Energy Dataset 
 - [Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
 - [Western Power Distribution's Connected Data Portal](https://connecteddata.westernpower.co.uk/dataset/)
 -  [Solar home electricity data](https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Solar-home-electricity-data)
 -  [SMART-DS: Synthetic Models for Advanced, Realistic Testing: Distribution Systems and Scenarios](https://www.nrel.gov/grid/smart-ds.html)
 
-## Others
+## Energy Informatics
 - [Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector](https://colab.research.google.com/github/bitstoenergy/iclr-tutorial/blob/main/SmartMeterDataAnalytics_Tutorial.ipynb)
 - [Time Series Analytics and Forecasting](https://www.forecaster.guru/time-series-analytics-and-forecasting.html)
+- [Future Energy Systems: Advances in OR and AI
+](https://energy-markets-school.dk/school-2023/downloads/)
+
