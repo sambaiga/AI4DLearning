@@ -126,3 +126,11 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Future Energy Systems: Advances in OR and AI
 ](https://energy-markets-school.dk/school-2023/downloads/)
 
+## Physics Inspired ML for Power system
+- [Data-Driven Control Based on the Behavioral Approach: From Theory to Applications in Power Systems](https://ieeexplore-ieee-org.tudublin.idm.oclc.org/document/10266847)
+- [Learning physical models that can respect conservation laws](https://www.amazon.science/publications/learning-physical-models-that-can-respect-conservation-laws)
+- [PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers](https://arxiv.org/abs/2308.05732)
+- [do-mpc: Towards FAIR nonlinear and robust model predictive control](https://www-sciencedirect-com.tudublin.idm.oclc.org/science/article/pii/S0967066123002459)
+- [Distribution System Optimization to Manage Distributed Energy Resources (DERs) for Grid Services](https://www.nowpublishers.com/article/Details/EES-030)
+- [Model Predictive Control and Reinforcement Learning](https://www.syscop.de/teaching/ws2023/model-predictive-control-and-reinforcement-learning)
+
