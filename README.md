@@ -15,7 +15,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2B.ipynb)
 * Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2C.ipynb)
-
+[physics-informed learning](https://pilworkshop.tbeckers.com/program)
+[Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2307.11494)
 
 
 ## Machine learning with scklearn
@@ -133,4 +134,13 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [do-mpc: Towards FAIR nonlinear and robust model predictive control](https://www-sciencedirect-com.tudublin.idm.oclc.org/science/article/pii/S0967066123002459)
 - [Distribution System Optimization to Manage Distributed Energy Resources (DERs) for Grid Services](https://www.nowpublishers.com/article/Details/EES-030)
 - [Model Predictive Control and Reinforcement Learning](https://www.syscop.de/teaching/ws2023/model-predictive-control-and-reinforcement-learning)
+
+## Tools and libraries
+[RSOME](https://xiongpengnus.github.io/rsome/examples)
+[PyEPO](https://github.com/khalil-research/PyEPO)
+[Feloopy](https://github.com/ktafakkori/feloopy)
+[Neuromancer](https://pnnl.github.io/neuromancer/)
+[Gurobi-optimods](https://github.com/pnnl/neuromancer/tree/master)
+[Optimods](https://gurobi-optimization-gurobi-optimods.readthedocs-hosted.com/en/stable/mods/opf/opf.html)
+
 
