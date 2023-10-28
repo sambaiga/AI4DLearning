@@ -136,11 +136,11 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Model Predictive Control and Reinforcement Learning](https://www.syscop.de/teaching/ws2023/model-predictive-control-and-reinforcement-learning)
 
 ## Tools and libraries
-[RSOME](https://xiongpengnus.github.io/rsome/examples)
-[PyEPO](https://github.com/khalil-research/PyEPO)
-[Feloopy](https://github.com/ktafakkori/feloopy)
-[Neuromancer](https://pnnl.github.io/neuromancer/)
-[Gurobi-optimods](https://github.com/pnnl/neuromancer/tree/master)
-[Optimods](https://gurobi-optimization-gurobi-optimods.readthedocs-hosted.com/en/stable/mods/opf/opf.html)
+- [RSOME](https://xiongpengnus.github.io/rsome/examples)
+- [PyEPO](https://github.com/khalil-research/PyEPO)
+- [Feloopy](https://github.com/ktafakkori/feloopy)
+- [Neuromancer](https://pnnl.github.io/neuromancer/)
+- [Gurobi-optimods](https://github.com/pnnl/neuromancer/tree/master)
+- [Optimods](https://gurobi-optimization-gurobi-optimods.readthedocs-hosted.com/en/stable/mods/opf/opf.html)
 
 
