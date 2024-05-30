@@ -16,9 +16,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2B.ipynb)
 * Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2C.ipynb)
-[physics-informed learning](https://pilworkshop.tbeckers.com/program)
-[Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2307.11494)
 
+## Intro to Artificial intelligence
+* [HarvardX: CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
 
 ## Machine learning with scklearn
 * ML pipeline with scklearn [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/ML/Pipeline.ipynb)
