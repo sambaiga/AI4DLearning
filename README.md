@@ -23,9 +23,12 @@
 ## Intro to Artificial intelligence
 * [HarvardX: CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
 
+
 ## Git and Github
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 * [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+  
   
 ## Machine learning with scklearn
 * ML pipeline with scklearn [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/ML/Pipeline.ipynb)
