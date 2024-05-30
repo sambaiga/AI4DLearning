@@ -28,6 +28,7 @@
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 * [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* [Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
   
   
 ## Machine learning with scklearn
