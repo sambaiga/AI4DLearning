@@ -4,12 +4,14 @@
 * [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 * Intro to Python [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%201/intro%20to%20python.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%201/intro%20to%20python.ipynb)
+
+## Numerical compution and plotting 
 * Python Numerical Stack [Notebook](https://github.com/sambaiga/AI4DLearning/blob/master/DataAnalysis/numeric%20stack%20with%20numpy.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%201/Module_1C.ipynb)
 * Python Plotting libraries [Notebook](https://github.com/sambaiga/AI4DLearning/blob/master/DataAnalysis/plotting%20libraries.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%201/plotting%20libraries.ipynb)
 
-## Data analysis with Pandas
+## Data analysis 
 * Introduction to Pandas for Data processing and Analysis [Notebook](https://github.com/sambaiga/AI4DLearning/blob/master/DataAnalysis/Module_2A.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/DataAnalysis/module%202/Module_2A.ipynb)
 * Combining datasets, Group by and Pivoting operations [Notebook](https://github.com/sambaiga/AI4DLearning/blob/master/DataAnalysis/module%202/Module_2B.ipynb)
@@ -20,11 +22,9 @@
 ## Intro to Artificial intelligence
 * [HarvardX: CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
 
-## Intro to Artificial intelligence
-* [HarvardX: CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
 
 
-## Git and Github
+## Important tools and skills for data analysis
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 * [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
@@ -34,6 +34,7 @@
 ## Machine learning with scklearn
 * ML pipeline with scklearn [Notebook](https://github.com/sambaiga/AI4DLearning/blob/main/ML/Pipeline.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sambaiga/AI4DLearning/blob/main/ML/Pipeline.ipynb)
+
 ## Deep learning with pytorch
 
 
