@@ -116,6 +116,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Model Predictive Control for Energy System](https://youtu.be/hCwOUGggyvw)
 - [Model Predictive Control and Machine Learning](https://youtu.be/CNwV5GbTEGM)
 - [Nonlinear and Stochastic Optimization](https://ndcbe.github.io/optimization/intro.html)
+- [Computational Control](https://www.bsaver.io/computational-control)
 
 ### Books
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
