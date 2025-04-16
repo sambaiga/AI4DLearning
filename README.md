@@ -129,6 +129,7 @@ Winter 2022](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedu
 - [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 - [Time Series Analysis With R](https://nicolarighetti.github.io/Time-Series-Analysis-With-R/)
+- [Algorithm for optimisation, decision and validation](https://algorithmsbook.com/)
 
 ### Energy Dataset 
 - [Zone substation data](https://www.evoenergy.com.au/about-us/about-our-network/zone-substation-data)
